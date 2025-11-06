@@ -1,0 +1,7 @@
+{
+    "name": "lokesh/student-management-system-demo",
+    "description": "Demo structure for Student Management System (not a full composer project)",
+    "require": {
+        "php": ">=8.0"
+    }
+}
