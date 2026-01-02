@@ -15,6 +15,3 @@ Demo Laravel-style project for Student Management System. This is a lightweight 
 ## How to use
 1. If you already have a Laravel project, copy the relevant files into your project: models to app/Models, controllers to app/Http/Controllers, views to resources/views, and routes/web.php contents into your routes file, then run migrations.
 2. Or upload this folder to GitHub as a demo repository.
-
-Developed by: Lokesh Lalwani (UID: 23BCA10127, Section: 23BCA-2'A', Semester: 5th)
-Guided By: Abhineet Sir
